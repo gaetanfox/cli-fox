@@ -1,0 +1,7 @@
+{
+    "name": "fox",
+    "version": "1.0.0",
+    "bin": {
+        "fox": "index.js"
+    }
+}
