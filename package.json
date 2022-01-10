@@ -1,6 +1,6 @@
 {
     "name": "fox",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "description": "Get to know me by typing npx fox",
     "bin": {
         "fox": "index.js"
